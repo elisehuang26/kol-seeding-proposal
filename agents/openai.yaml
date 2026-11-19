@@ -1,0 +1,4 @@
+interface:
+  display_name: "KOL 种草方案推导"
+  short_description: "从消费者洞察和核心创意，推导逐页方案、达人分工、筛选与效果验证"
+  default_prompt: "使用 $kol-seeding-proposal，根据我提供的品牌 brief 和产品资料，推导 KOL 种草方案，逐页说明结构与依据，并解释达人角色、层级、筛选和 Core Idea 的对应关系。"
